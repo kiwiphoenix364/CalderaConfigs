@@ -1,0 +1,25 @@
+modLoader="lowcodefml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="calderaconfigs"
+version="1.0"
+displayName="Caldera Configs"
+description='''
+Edits to mods for Caldera
+'''
+
+[[dependencies.calderaconfigs]]
+modId="lostcities"
+mandatory=true
+versionRange="[1.20-7.3.2,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.calderaconfigs]]
+modId="mowziesmobs"
+mandatory=true
+versionRange="[1.6.4,)"
+ordering="AFTER"
+side="BOTH"

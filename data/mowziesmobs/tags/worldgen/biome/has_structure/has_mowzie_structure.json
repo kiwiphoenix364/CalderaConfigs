@@ -1,0 +1,18 @@
+{
+    "//NOTE": "Any biome you want Mowzie's Mobs structures to spawn in must appear here. By default, this includes all overworld biomes and tags. Modded biomes may not by included by default. During placement, biomes are restricted by the dictionary tags from the Mowzie's Mobs config.",
+    "replace": false,
+    "values": [
+      "endlessexpansion:abyssal_ocean",
+      "endlessexpansion:basalt_beach",
+      "endlessexpansion:beach",
+      "endlessexpansion:frozen_beach",
+      "endlessexpansion:frozen_wastes",
+      "endlessexpansion:gravel_beach",
+      "endlessexpansion:rocky_beach",
+      "endlessexpansion:scorched_wastes",
+      "endlessexpansion:sunken_wastes",
+      "endlessexpansion:titanic_forest",
+      "endlessexpansion:volcanic_wastes",
+      "endlessexpansion:zerzura"
+    ]
+  }

@@ -1,0 +1,53 @@
+{
+    "values": [
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_human"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_boomer"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_cow"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_dog"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_howler"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_pig"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_pillager"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_servant"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_sheep"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_villager"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:flesh_vindicator"
+      },
+      {
+        "factor": 1,
+        "value": "the_flesh_that_hates:plaquecontaminator"
+      }
+      
+    ]
+  }
